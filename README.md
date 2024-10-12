@@ -1,13 +1,10 @@
 **Hi there** 👋
 I’m Yousuf Raza, a recent Computer Science graduate from Lusbela University of Agriculture, Water and Marrine Sciences with a passion for web development. My journey in tech has been driven by a fascination with creating dynamic and user-centric web applications.
 
- Skills & Interests:
+ **Skills & Interests:**
 
 1: Languages & Frameworks:
- HTML, CSS, JavaScript, React, Node.js
-
-2: Tools & Technologies:
-Git, GitHub, RESTful APIs, Responsive Design
+ HTML, CSS, Tailwind CSS, BootStrap JavaScript, 
 
 Tools & Technologies:
 Git, GitHub, RESTful APIs, Responsive Design
